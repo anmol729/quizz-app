@@ -4,13 +4,6 @@
 
 A modern, responsive, and feature-rich quiz application built with React, Vite, and Tailwind CSS v3. No API keys required - all questions are built-in!
 
-![QuizMaster Pro](https://img.shields.io/badge/React-18+-blue.svg)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v3-38B2AC.svg)
-![Vite](https://img.shields.io/badge/Vite-5+-646CFF.svg)
-
-## 🌟 Live Demo
-
-Visit the live demo: [QuizMaster Pro](https://github.com/anmol729/quizz-app)
 
 ## ✨ Features
 
